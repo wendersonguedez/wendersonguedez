@@ -26,7 +26,7 @@
   
   <img align="center" alt="Wend-Laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />   
         
-</div>
+</div> 
    
 ##
   
