@@ -1,7 +1,8 @@
-## Olá! Eu sou o Wenderson Guedes 😁
+## Wenderson Guedes 😁
 
-- 🔭 Hoje trabalho como programador full stack
-- 🌱 Estudando Laravel e JavaScript
+- 🧑‍💻  Programador web PHP Jr. atuante em uma empresa que fornece soluções tecnológicas para seus clientes.
+- 🚀  Aprimorando meus conhecimentos no framework Laravel e seu também framework Livewire.
+
 
 <div align="center">
   <a href="https://github.com/wendersonguedez">
