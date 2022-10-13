@@ -1,7 +1,7 @@
 ## Wenderson Guedes 😁
 
-- 🧑‍💻  Programador web PHP Jr. atuante em uma empresa que fornece soluções tecnológicas para seus clientes.
-- 🚀  Aprimorando meus conhecimentos no framework Laravel e seu também framework Livewire.
+- 🧑‍💻  Programador web PHP Jr.
+- 🚀  Aprimorando meus conhecimentos no framework Laravel e seu também framework Livewire. Atualmente estou aprofundando e aperfeiçoando meus conhecimentos sobre HTML e CSS, aplicando em pequenos projetos Front-End.
 
 
 <div align="center">
