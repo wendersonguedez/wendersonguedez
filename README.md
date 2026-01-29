@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi! I'm Wend! </h1>
+<h1 align="left">Hello! I'm Wend. 🦇</h1>
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/tlberglund/animated-gifs/refs/heads/master/batman-doge.gif"  />
 
@@ -10,6 +10,8 @@
   </a>
 </div>
 
+ <br />
+
 <p align="center">
   I am a Software Developer with a multidisciplinary background, combining technical expertise in <b>Full Stack Development</b> with a solid foundation in <b>Business Administration</b> and <b>Data Analysis</b>. 
   <br><br>
@@ -17,25 +19,35 @@
 </p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" title="Laravel"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React"/>
-  <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL"/>
+  <h3>🛠️ Main Stack & Daily Drivers</h3>
+  <p><em>Technologies I use professionally to build scalable systems.</em></p>
+
+  <img src="https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%230d1117.svg?style=for-the-badge&logo=laravel&logoColor=ff2d20" alt="Laravel" />
   
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Studying Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Studying Spring"/>
+  <img src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%230d1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/postgres-%230d1117.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/docker-%230d1117.svg?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+
+  <br />
+
+  <h3>🔭 Current Focus & Learning</h3>
+  <p><em>Deepening my knowledge in Architecture and Backend Engineering.</em></p>
+  
+  <img src="https://img.shields.io/badge/java-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%230d1117.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/architecture-%230d1117.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Architecture" />
 </div>
 
 ### Experience & Background
-
 <p align="left">
 My journey merges technical skills with business intelligence. With a degree in <b>Systems for Internet</b> and a background in <b>Business Administration</b>, I understand not just <i>how</i> to code, but <i>why</i> we build features.
 </p>
