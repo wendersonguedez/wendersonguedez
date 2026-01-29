@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://raw.githubusercontent.com/tlberglund/animated-gifs/refs/heads/master/batman-doge.gif"  />
 
 <div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Wenderson, but you can call me Wend<br>and chat with me here:</p>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/wenderson-guedes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
 </div>
