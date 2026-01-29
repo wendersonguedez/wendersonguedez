@@ -2,26 +2,27 @@
 
 <h1 align="left">Hello! I'm Wend. 🦇</h1>
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/tlberglund/animated-gifs/refs/heads/master/batman-doge.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/tlberglund/animated-gifs/refs/heads/master/batman-doge.gif" alt="Pixel Art" />
 
-<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Wenderson, but you can call me Wend<br>and chat with me here:</p>
-  <a href="https://www.linkedin.com/in/wenderson-guedes" target="_blank">
+<div style="display: flex; align-items: center;" > 
+  <p align="left">Hi! My name is Wenderson, but you can call me Wend.<br>Connect with me here:</p>
+  <a href="https://www.linkedin.com/in/wenderson-guedes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
- <br />
-
-<p align="center">
-  I am a Software Developer with a multidisciplinary background, combining technical expertise in <b>Full Stack Development</b> with a solid foundation in <b>Business Administration</b> and <b>Data Analysis</b>. 
+<p align="left">
+  I am a Software Developer focused on <b>Full Stack Development</b>. I build web solutions using <b>PHP (Laravel)</b> and <b>React</b>, ensuring code quality and performance.
   <br><br>
-  Currently, I build robust web solutions using <b>PHP (Laravel)</b> and <b>React</b>, focusing on architecture, performance, and CI/CD pipelines. Driven by a passion for strongly typed languages and enterprise architecture, I am actively expanding my stack to the <b>Java ecosystem (Spring Boot)</b>, leveraging my experience in OOP and API design to build scalable applications.
+  Passionate about backend concepts, I am also dedicating my studies to the <b>Java ecosystem</b>. Currently, I am focusing on <b>Core Java</b> and <b>Object-Oriented Programming (OOP)</b> to build a strong foundation for future projects with Spring Boot and Software Engineering.
 </p>
+
+<br>
 
 <div align="left">
   
   <h3>🛠️ Main Stack & Daily Drivers</h3>
-  <p><em>Technologies I use professionally to build scalable systems.</em></p>
+  <p><em>Technologies I use professionally in my current workflow.</em></p>
 
   <img src="https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%230d1117.svg?style=for-the-badge&logo=laravel&logoColor=ff2d20" alt="Laravel" />
@@ -39,19 +40,19 @@
 
   <br />
 
-  <h3>🔭 Current Focus & Learning</h3>
-  <p><em>Deepening my knowledge in Architecture and Backend Engineering.</em></p>
+  <h3>🔭 Study Focus</h3>
+  <p><em>Exploring new concepts and languages to expand my backend skills.</em></p>
   
   <img src="https://img.shields.io/badge/java-%230d1117.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%230d1117.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
-  <img src="https://img.shields.io/badge/architecture-%230d1117.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Architecture" />
-</div>
+  </div>
 
 ### Experience & Background
+
 <p align="left">
-My journey merges technical skills with business intelligence. With a degree in <b>Systems for Internet</b> and a background in <b>Business Administration</b>, I understand not just <i>how</i> to code, but <i>why</i> we build features.
+I hold a degree in <b>Systems for Internet</b>. My professional journey includes experience as a Technical Support Analyst and Web Developer, where I worked on API integrations, bug fixing, and system maintenance.
 </p>
 
 <p align="left">
-I have experience working on complex legacy systems, refactoring codebases, and implementing DevOps flows (Docker/CI/CD). Currently, I work as a Full Stack Developer, but I am directing my career towards <b>Backend Engineering</b> with <b>Java</b>, seeking challenges that involve high availability, microservices, and complex data processing.
+In my daily workflow, I use <b>Docker</b> for containerization and work with CI pipelines via GitHub Actions, focusing on delivering reliable code. I am constantly learning new engineering concepts to improve my problem-solving skills.
 </p>
